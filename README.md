@@ -1,2 +1,2 @@
-# spcc-site
+# spcg-site
 Site of SPCG group
