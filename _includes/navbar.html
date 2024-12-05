@@ -1,0 +1,64 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" >
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" ></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.min.js" integrity="sha384-Atwg2Pkwv9vp0ygtn1JAojH0nYbwNJLPhwyoVbhoPwBhjQPR5VtM2+xf0Uwh9KtT" crossorigin="anonymous"></script>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
+  <div class="container">
+    <a class="navbar-brand d-flex align-items-center" href="{{'/' | relative_url }}">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" class="me-2">
+      {% endif %}
+      {{ site.title }}
+    </a>
+    <!-- LOGO HERE 
+    <a href="https://www.unimi.it/en"  target="_blank">
+    <img src="images/logoUNIMI60grey.png" width="86" height="30">
+    </a> 
+    <a>
+    <img src="images/bianco.png" width="10" height="30">
+    </a> 
+    <a href="https://www.ifom.eu/en"  target="_blank">
+    <img src="images/logoIFOM60grey.png" width="75" height="30">
+    </a> 
+    -->    
+     <a class="navbar-brand d-flex align-items-center" href="https://www.unimi.it/en"  target="_blank">    
+        <img src="/images/logoUNIMI60grey.png" class="me-2">
+     </a>
+     <a class="navbar-brand d-flex align-items-center" href="https://www.ifom.eu/en" target="_blank">    
+        <img src="/images/logoIFOM60grey.png" class="me-2">
+     </a>    
+    {% if site.data.navigation %}
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu">
+        Menu <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbar-menu">
+        <ul class="navbar-nav ms-auto">
+          {% for item in site.data.navigation %}
+            {% if item.menu %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                  {{ item.text }}
+                </a>
+                <div class="dropdown-menu">
+                  {% for subitem in item.menu %}
+                    {% if subitem.href %}
+                      <a class="dropdown-item{% if subitem.href == page.url %} active{% endif %}" href="{{ subitem.href | relative_url }}"{% if subitem.new_window %} target="_blank"{% endif %}>{{ subitem.text }}</a>
+                    {% elsif subitem.text contains '---' %}
+                      <div class="dropdown-divider"></div>
+                    {% else %}
+                      <h6 class="dropdown-header">{{ subitem.text }}</h6>
+                    {% endif %}
+                  {% endfor %}
+                </div>
+              </li>
+            {% else %}
+              <li class="navbar-item">
+                <a class="nav-link{% if item.href == page.url %} active{% endif %}" href="{{ item.href | relative_url }}"{% if item.new_window %} target="_blank"{% endif %}>{{ item.text }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </div>
+</nav>
