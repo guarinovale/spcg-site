@@ -78,24 +78,24 @@
 
 - name: Valentina Guarino
   role: PhD
-  # image: /images/people_vg.jpg 
+  image: /images/people_vg.jpg 
   description: >
-    PhD student, striving to perform work with a clinical impact.          
-  # cv: vgCV.pdf
+    PhD student with a physics background, my goal is to contribute to clinically impactful research. My work primarily focuses on developing mathematical models and performing simulations, complemented by experimental studies in the wet lab on yeast. I am particularly interested in exploring the dynamics of drug-tolerant persister cells and understanding the phenotypes associated to cell-cycle arrested cells.          
+  cv: vgCV.pdf
   email: valentina.guarino@ifom.eu
   #scholar: 
   #researchgate:
   #orcid: 
   in: https://it.linkedin.com/in/valentina-guarino-8158781a5
   #twitter: 
-  #github: 
+  github: guarinovale
 
 - name: Andrea Ripamonti
   role: PhD
   image: /images/people_ar.jpg 
   description: >
     PhD student, working on proteostasis.            
-  # cv: arCV.pdf
+  cv: arCV.pdf
   email: andrea.ripamonti@ifom.eu
   #scholar: 
   #researchgate:
