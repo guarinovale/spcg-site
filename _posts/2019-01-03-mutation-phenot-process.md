@@ -7,6 +7,7 @@ description:
 ---
 
 We aim to quantify mutational processes and phenotypic transitions in mammalian cells and cancer model systems, combining experimental evolution and mathematical modeling. To this end, we develop quantitative frameworks inspired by the Luria-Delbrück fluctuation assay to quantify the phenotypic switch to the persister phenotype and mutation rates in cancer cells exposed to growth-inhibitory targeted therapies. Our work also includes inference methods to quantify genomic mutation rates using sequencing data from controlled experimental setups. Furthermore, we are advancing computational methods to evaluate the potential effects of natural selection in shaping the phenotypes arising after a Mutation Accumulation experiment carried out in single-celled organisms.
+
 Working on this topic: Simone Pompei, Mattia Corigliano, Valentina Guarino
 
 Key publications:
