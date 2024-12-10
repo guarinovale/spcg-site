@@ -94,15 +94,15 @@
   role: PhD
   image: /images/people_ar.jpg 
   description: >
-    PhD student, working on proteostasis.            
+    Half engineer, half physicist, now diving into quantitative biology. I am passionate about proteostasis, how it is maintained, the stressors that challenge it, and the adaptive strategies cells use to preserve balance and function. I like to build mathematical models to explore unanswered questions in the biological literature and to interpret experimental data from the lab.           
   cv: arCV.pdf
   email: andrea.ripamonti@ifom.eu
   #scholar: 
   #researchgate:
-  #orcid: 
-  #in: 
-  #twitter: 
-  #github: 
+  orcid: 0009-0004-2570-0510
+  in: https://www.linkedin.com/in/andrea-ripamonti-1a2646315
+  twitter: AndreaRipa99
+  github: Andre-Ripa-99
 
 #- name: Ludovico Calabrese
 #  role: Alumni / PhD
