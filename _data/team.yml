@@ -104,47 +104,47 @@
   #twitter: 
   #github: 
 
-- name: Ludovico Calabrese
-  role: Alumni / PhD
+#- name: Ludovico Calabrese
+#  role: Alumni / PhD
   #image: /images/people_lc.jpg
-  description: >
-    Master University of Milan, PhD IFOM. Now Postdoc at Biozentrum Basel 
+#  description: >
+#    Master University of Milan, PhD IFOM. Now Postdoc at Biozentrum Basel 
   #  Theoretical Physicist. I like to use minimal models and proof-of-principle arguments to determine the essential conditions that cause a phenomenon. I am fascinated by genetic networks and the motifs/circuits found inside them and how living systems perform functional tasks largely by selecting the right architecture. In my research, I define mathematical models of cell growth and gene expression with three main questions in mind: (i) how do global parameters of biosynthesis vary across growth conditions (ii) what do these trends imply as to what is limiting for growth (iii) whether these trends can help us understand how the behavior of genetic circuits varies across growth conditions.
   #cv: lcCV.pdf
-  email: ludovico.calabrese@ifom.eu
+#  email: ludovico.calabrese@ifom.eu
   #scholar: 
   #researchgate:
-  orcid: 0000-0002-1305-4441
+#  orcid: 0000-0002-1305-4441
   #in:
   #twitter: 
-  github: ludjwick
+#  github: ludjwick
 
 
-- name: Ilaria Iuliani
-  role: Alumni / Post Doc
+#- name: Ilaria Iuliani
+#  role: Alumni / Post Doc
   #image: /images/people_ii.jpg
-  description: >
-    Master University of Turin, PhD Sorbonne University. 
+#  description: >
+#    Master University of Turin, PhD Sorbonne University. 
   #cv: iiCV.pdf 
   #email: ilaria.iuliani@ifom.eu
   #scholar: 
-  researchgate: Ilaria-Iuliani
-  orcid: 0000-0003-1758-0497
-  in: https://fr.linkedin.com/in/ilaria-iuliani-4b49bba0
-  twitter: IlariaIuliani
-  github: ilaria-iuliani
+#  researchgate: Ilaria-Iuliani
+ # orcid: 0000-0003-1758-0497
+#  in: https://fr.linkedin.com/in/ilaria-iuliani-4b49bba0
+#  twitter: IlariaIuliani
+#  github: ilaria-iuliani
 
   
-- name: Quentin Chaboche
-  role: Alumni / Master's student
+#- name: Quentin Chaboche
+#  role: Alumni / Master's student
   #image: /images/people_qc.jpg 
-  description: >
-    Master EPFL. Now PhD student at Institut Curie, Paris.        
+#  description: >
+#    Master EPFL. Now PhD student at Institut Curie, Paris.        
   #cv: qcCV.pdf
   #email: quentin.chaboche@ifom.eu
   #scholar:
   #researchgate:
   #orcid:
-  in: https://it.linkedin.com/in/quentin-chaboche-6a65ba1a1
+#  in: https://it.linkedin.com/in/quentin-chaboche-6a65ba1a1
   #twitter:
   #github:
