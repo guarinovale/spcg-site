@@ -44,6 +44,10 @@
 <loc>http://localhost:4000/team/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/CV/arCV.pdf</loc>
+<lastmod>2024-12-10T10:35:06+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/CV/gtCV.pdf</loc>
 <lastmod>2024-11-18T15:37:08+01:00</lastmod>
 </url>
