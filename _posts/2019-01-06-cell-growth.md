@@ -12,10 +12,10 @@ Working on this topic: Rossana Droghetti, Mattia Corigliano, Giorgio Tallarico, 
 
 Key publications:
 
+L Calabrese, L Ciandrini, M Cosentino Lagomarsino. How total mRNA influences cell growth. Proceedings of the National Academy of Sciences 121 (21) 2024
+
 L Calabrese, J Grilli, M Osella, CP Kempes, M Cosentino Lagomarsino, L Ciandrini. Protein degradation sets the fraction of active ribosomes at vanishing growth. PLoS Comput Biol 18(5):e1010059 2022
 
 Q Zhang, E Brambilla, R Li, H Shi, M Cosentino Lagomarsino, B Sclavi A decrease in transcription capacity limits growth rate upon translation inhibition. Msystems 5 (5) 2020
-
-C Cadart and L Venkova, P Recho, M Cosentino Lagomarsino and M. Piel. The physics of cell-size regulation across timescales. Nature Physics 15, 993-1004, 2019
 
 [More on Google Scholar](https://scholar.google.com/citations?user=jJ0S7vUAAAAJ 'Google Scholar'){:target="_blank"}

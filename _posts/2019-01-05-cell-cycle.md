@@ -11,10 +11,10 @@ Working on this topic: Mattia Corigliano, Giorgio Tallarico, Valentina Guarino
 
 Key publications:
 
+I Iuliani, G Mbemba, M Cosentino Lagomarsino, B Sclavi. Direct single-cell observation of a key Escherichia coli cell-cycle oscillator. Science Advances 10:29 2024
+
 M Panlilio, J Grilli, G Tallarico, I Iuliani, B Sclavi, P Cicuta, M Cosentino Lagomarsino, Threshold accumulation of a constitutive protein explains E. coli cell-division behavior in nutrient upshifts Proceedings of the National Academy of Sciences 118 (18) 2 2021
 
 G Micali, J Grilli, M Osella, M Cosentino Lagomarsino, Concurrent processes set E. coli cell division Science Advances 4:11 eaau3324 2018 
-
-C Cadart, S Monnier, J Grilli, R Attia, E Terriac, B Baum, M Cosentino Lagomarsino, M Piel. Size control in mammalian cells involves modulation of both growth rate and cell cycle duration Nature communications 9 (1), 3275, 2018 
 
 [More on Google Scholar](https://scholar.google.com/citations?user=jJ0S7vUAAAAJ 'Google Scholar'){:target="_blank"}
