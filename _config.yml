@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: spcg                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
+title: spcg                       # Title in top navigation bar (navbar) and <head>
+description: Site of the Statistical Physics of Cells and Genomes group. IFOM and University of Milan # Site description in <head>
 author: SPCG                  # Used for copyright statement in footer
 #url:  "https://guarinovale.github.io"
 #baseurl: /spcg-site
@@ -11,7 +11,8 @@ url: "http://spcg.unimi.it"  # No slash at the end
 
 # SOCIAL PROFILES
 email: mcl-group@ifom.eu           # Social icon in footer
-twitter_username: SPCGgroup            # Social icon in footer
+bluesky_username: spcggroup.bsky.social
+#twitter_username: SPCGgroup            # Social icon in footer
 #github_username:  mcltone            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
