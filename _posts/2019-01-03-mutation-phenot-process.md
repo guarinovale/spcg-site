@@ -12,6 +12,8 @@ Working on this topic: Simone Pompei, Mattia Corigliano, Valentina Guarino
 
 Key publications:
 
+M Corigliano, A Di Bernardo, M Cosentino Lagomarsino, Simone Pompei. Optimal Treatment for Drug-Induced Cancer Persisters Involves Release Periods and Intermediate Drug Doses. PRX Life 3, 023018 2025
+
 M Russo, S Pompei, A Sogari, M Corigliano, G Crisafulli, A Puliafito, S Lamba, J Erriquez, A Bertotti, M Gherardi, F Di Nicolantonio, A Bardelli, M Cosentino Lagomarsino. A modified fluctuation-test framework characterizes the population dynamics and mutation rate of colorectal cancer persister cells. Nat Genet 54(7):976-984 2022
 
 M Russo, G Crisafulli, A Sogari, NM Reilly, S Arena, S Lamba, A Bartolini, V Amodio, A Magrì, L Novara, I Sarotto, ZD Nagel, CG Piett, A Amatu, A Sartore-Bianchi, S Siena, A Bertotti, L Trusolino, M Corigliano, M Gherardi, M Cosentino Lagomarsino, F Di Nicolantonio, A Bardelli. Adaptive mutability of colorectal cancers in response to targeted therapies. Science 366 6472, 1473-1480 2019 

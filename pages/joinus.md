@@ -7,7 +7,7 @@ permalink: /join-us/
 
 We always welcome spontaneous applications from prospective postdocs and students interested in a PhD, Master's, or Bachelor's thesis project, so get in touch with us if you are interested. Specific openings will be posted below. 
 
-## Current Openings  
+<!-- ## Current Openings  //I'm leaving here the structure for future announcements
 
 ### 🔬 Experimental Postdoc in Quantitative Single-Cell Biology
 
@@ -17,4 +17,4 @@ We always welcome spontaneous applications from prospective postdocs and student
 **🤝 Collaborations:** Piel Lab (Curie Institute, Paris) & Mazza Lab (San Raffaele University, Milan)  
 **📧  Application Contact:** [SPCG_call@ifom.eu](mailto:SPCG_call@ifom.eu)  
 
-📄 **[Download Announcement]( /openings/PostdocSPCG.pdf )**  
+📄 **[Download Announcement]( /openings/PostdocSPCG.pdf )**   -->

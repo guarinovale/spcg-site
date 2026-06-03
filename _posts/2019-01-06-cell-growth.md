@@ -12,10 +12,11 @@ Working on this topic: Rossana Droghetti, Mattia Corigliano, Giorgio Tallarico, 
 
 Key publications:
 
+R Droghetti, M Corigliano, L Calabrese, P Fuchs, A Vaidyanathan, J Keisers, G Micali, M Cosentino Lagomarsino, L Ciandrini. Hands-On Growth Laws Theory Cookbook. PRX Life 4, 012001, 2026
+
 R Droghetti, P Fuchs, I Iuliani, V Firmano, G Tallarico, L Calabrese, J Grilli, B Sclavi, L Ciandrini, M Cosentino Lagomarsino. Incoherent feedback from coupled amino acids and ribosome pools generates damped oscillations in growing E. coli. Nature Communications 16, 2025 
 
 L Calabrese, L Ciandrini, M Cosentino Lagomarsino. How total mRNA influences cell growth. Proceedings of the National Academy of Sciences 121 (21), 2024
 
-L Calabrese, J Grilli, M Osella, CP Kempes, M Cosentino Lagomarsino, L Ciandrini. Protein degradation sets the fraction of active ribosomes at vanishing growth. PLoS Comput Biol 18(5):e1010059, 2022
 
 [More on Google Scholar](https://scholar.google.com/citations?user=jJ0S7vUAAAAJ 'Google Scholar'){:target="_blank"}
