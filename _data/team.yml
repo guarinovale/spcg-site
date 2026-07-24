@@ -150,22 +150,6 @@
   #twitter: 
   github: AleSambru
 
-- name: Rehan Arshad
-  role: Master's Student
-  image: /images/people_ra.jpg 
-  description: >
-    I am a student of cellular biology, slowly learning to think more quantitatively about living systems - and occasionally finding equations fun.
-     My current work focuses on growth-law scaling in S. cerevisiae. I'm drawn to the idea that simple physical and statistical principles can cut 
-     through biological complexity, and I'm working toward a PhD at that interface.
-  cv: raCV.pdf
-  email: rehan.arshada@ifom.eu
-  #scholar: 
-  #researchgate:
-  orcid: 0009-0005-3946-1458
-  in: https://it.linkedin.com/in/rehann-arshad
-  #twitter: 
-  #github: 
-
 
 
 #- name: Ludovico Calabrese
