@@ -134,23 +134,6 @@
   #twitter: 
   #github: 
 
-- name: Alessia Sambruna
-  role: Temporary Research Fellow
-  image: /images/people_as.jpg 
-  description: >
-    Physicist by training. I am fascinated by the complexity of living systems and the creative, 
-    iterative process required to understand them. Currently working on growth laws in yeast, 
-    combining data-driven modeling and wet lab techniques.
-  cv: asCV.pdf
-  email: alessia.sambruna@ifom.eu
-  #scholar: 
-  #researchgate:
-  orcid: 0009-0001-3014-5636
-  in: https://www.linkedin.com/in/alessia-sambruna
-  #twitter: 
-  github: AleSambru
-
-
 
 #- name: Ludovico Calabrese
 #  role: Alumni / PhD
