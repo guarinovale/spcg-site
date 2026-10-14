@@ -61,6 +61,21 @@
   github: Mattia-Corigliano
 
 
+- name: Giuseppe Fragale
+  role: Post Doc
+  image: /images/people_gf.jpg 
+  description: >
+    Biologist by training, I am interested in how cells regulate protein synthesis under stress, such as mechanical stress. I now use fluorescent reporters in yeast to study translational elongation.       
+  cv: gfCV.pdf
+  email: giuseppe.fragale@ifom.eu
+  #scholar: user=HhvKKzQAAAAJ&hl=it
+  researchgate: Giuseppe-Fragale
+  orcid: 0000-0003-0081-8059
+  in: https://it.linkedin.com/in/giuseppe-fragale-6149b5174  
+  #twitter: mcorigliano_
+  #github: Mattia-Corigliano
+
+
 - name: Giorgio Tallarico
   role: PhD
   image: /images/people_gt.jpg 
